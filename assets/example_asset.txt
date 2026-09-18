@@ -1,0 +1,1 @@
+This skill does not require static assets. This file is intentionally kept minimal because the initializer created an assets directory.
